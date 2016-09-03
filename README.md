@@ -4,4 +4,5 @@ This repository is a boost start project for Network calling  and  caching reque
 Below is the mentioned link which help me understand how MVVM model and databinding should be used.  https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442#.6f2v24lwv
 
 If you want to discover more about unit test cases: Follow below mention link
+
 http://hintdesk.com/android-basic-testing-with-unit-test-android-test-and-roboguice-robolectric-mockito/
