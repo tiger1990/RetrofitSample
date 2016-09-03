@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RottenTomato</string>
+    <string name="blockbuster">Blockbuster Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="releaseDate">Release On: </string>
+    <string name="movieCasts">Casts: </string>
+</resources>
