@@ -1,5 +1,5 @@
 # RetrofitSample
-This repository is a boost start project for Network calling  and  caching request. MVVP architecture and Databinding is used in this project. It will also help you understand how to write test cases for your ViewModel using robolectric framework.
+This repository is a boost start project for Network calling  and  caching request. MVVM architecture and Databinding is used in this project. It will also help you understand how to write test cases for your ViewModel using robolectric framework.
 
 Below is the mentioned link which help me understand how MVVM model and databinding should be used.  https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442#.6f2v24lwv
 
